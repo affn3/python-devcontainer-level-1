@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FastAPI first steps
 Erste Schritte mit der FastAPI in Python
 
@@ -10,3 +11,6 @@ Erste Schritte mit der FastAPI in Python
 7. Teste Neues Wort erfassen
 8. Teste das Löschen von vorhandenen und unbekannten Worten.
 9. Schau dir die automatisch erstellte API-Dokumentation im Browser an: url/docs
+=======
+# python-devcontainer-level-1
+>>>>>>> 11be82e446feb2e552cd622dd3237eb21153973b
